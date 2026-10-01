@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="creational.singleton.IdGeneratorV1Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-10-01T12:38:48.194Z" hostname="MacBook-Pro-3.local" time="0.013">
-  <properties/>
-  <testcase name="nextId를 호출하면 2가된다." classname="creational.singleton.IdGeneratorV1Test" time="0.009"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
